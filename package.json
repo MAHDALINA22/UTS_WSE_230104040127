@@ -1,0 +1,15 @@
+{
+  "name": "uts-wse-230104040127",
+  "version": "1.0.0",
+  "description": "UTS Web Service Engineering - RESTful API Articles",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
